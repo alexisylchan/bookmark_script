@@ -1,4 +1,5 @@
 Install script running? Launch pre-bookmarked urls from your shell
+===================================================================
 
 Running bookmarks.csh from your installation/compilation shell script:
   ./bookmarks.csh bookmarks.json &
