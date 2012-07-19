@@ -10,3 +10,4 @@ bookmarks.json
                    code installation/compilation
   num_open: Number of URLS you want to open per session
   bookmark_index: Current URL index to start from
+ 
