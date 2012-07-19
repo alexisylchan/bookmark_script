@@ -4,13 +4,10 @@ Running bookmarks.csh from your installation/compilation shell script:
 >    ./bookmarks.csh bookmarks.json &
   
 bookmarks.json  
-*    chrome_dir: Chrome root directory  
-*    bookmark_folder:   
-        The name of the top-level bookmark directory you would use  
-        to store the bookmarks you want to browse during  
-        code installation/compilation  
-*    num_open: Number of URLS you want to open per session  
-*    bookmark_index: Current URL index to start from  
+>    chrome_dir  :  Chrome root directory  
+>    bookmark_folder  :  Pre-bookmark urls in your Chrome browser in a folder named 'bookmark_folder'  
+>    num_open  :  Number of URLS to open per session  
+>    bookmark_index  :  Current URL index to start from  
   
   
  
